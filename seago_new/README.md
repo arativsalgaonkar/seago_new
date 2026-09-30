@@ -1,2 +1,0 @@
-# seago
-Seago Website
